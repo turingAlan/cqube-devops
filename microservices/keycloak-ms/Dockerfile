@@ -1,4 +1,4 @@
-FROM jboss/keycloak:15.0.2
+FROM jboss/keycloak
 
 
 EXPOSE 8080
